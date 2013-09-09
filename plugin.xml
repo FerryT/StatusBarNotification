@@ -4,6 +4,7 @@
     id="com.phonegap.plugins.statusBarNotification.StatusBarNotification"
     version="0.0.1">
     <name>StatusBarNotification</name>
+    <description>Statusbar notifications plugin</description>
 
 	<asset src="www/statusbarnotification.js" target="statusbarnotification.js" />
 
