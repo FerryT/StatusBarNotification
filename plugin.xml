@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.statusBarNotification.StatusBarNotification"
-    version="0.0.01">
+    id="com.phonegap.plugins.statusBarNotification.StatusBarNotification2"
+    version="0.0.1">
     <name>StatusBarNotification</name>
     <description>Statusbar notifications plugin</description>
     <license>MIT</license>
@@ -12,7 +12,7 @@
 
 	<platform name="android">
     <config-file target="res/xml/config.xml" parent="plugins">
-      <plugin name="StatusBarNotification" value="com.phonegap.plugins.statusBarNotification.StatusBarNotification" />
+      <plugin name="StatusBarNotification2" value="com.phonegap.plugins.statusBarNotification.StatusBarNotification2" />
     </config-file>
     
     <source-file src="StatusBarNotification.java" target-dir="src/com/phonegap/plugins/statusBarNotification/" />
