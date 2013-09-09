@@ -5,6 +5,8 @@
     version="0.0.1">
     <name>StatusBarNotification</name>
     <description>Statusbar notifications plugin</description>
+    <license>MIT</license>
+    <keywords>phonegap,statusbar,notification</keywords>
 
 	<asset src="www/statusbarnotification.js" target="statusbarnotification.js" />
 
